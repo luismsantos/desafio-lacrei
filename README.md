@@ -38,6 +38,9 @@ O nome social irá aparecer nas requisições GET.
 6. Rode as migrações para o banco de dados com o comando: `python manage.py migrate`;
 7. Inicie o servidor com o comando: `python manage.py runserver`;
 
+## Executando o teste
+Execute o comando: `python manage.py test`
+
 ## Funcionalidades 
 
 ### Adicionar médicos
